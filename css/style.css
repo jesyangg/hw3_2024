@@ -148,7 +148,8 @@ nav a:focus{
 first div in the grid  and place it in the grid. */
 
 .container > :first-child {
-  background-image: url('images/header.jpg');
+  background-image: url('hw3_2024/images
+/header.jpg');
   background-repeat: no-repeat;
   background-size: cover;
   background-attachment: fixed;
@@ -239,7 +240,8 @@ text-align: center;
   }
 
   .container > :first-child {
-    background-image: url('images/header.jpg');
+    background-image: url('hw3_2024/images
+/header.jpg');
     background-repeat: no-repeat;
     background-size: cover;
     background-attachment: fixed;
